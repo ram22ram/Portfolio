@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.a8d6e740.css",
-    "main.js": "/MyPortfolio/static/js/main.5739b062.js",
-    "static/js/415.4d6acbeb.chunk.js": "/MyPortfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/admin_dashboard.png": "/MyPortfolio/static/media/admin_dashboard.4e857a22b9c389d6189c.png",
-    "static/media/emotion.png": "/MyPortfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/netflix.png": "/MyPortfolio/static/media/netflix.d430ad11b357f8d8c3f2.png",
-    "static/media/codeEditor.png": "/MyPortfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/MyPortfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/MyPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/MyPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Ramendra_Vishwakarma_resume.pdf": "/MyPortfolio/static/media/Ramendra_Vishwakarma_resume.e0419922f3fef5f48632.pdf",
-    "static/media/chatify.png": "/MyPortfolio/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/MyPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/MyPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/MyPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/MyPortfolio/index.html",
-    "main.a8d6e740.css.map": "/MyPortfolio/static/css/main.a8d6e740.css.map",
-    "main.5739b062.js.map": "/MyPortfolio/static/js/main.5739b062.js.map",
-    "415.4d6acbeb.chunk.js.map": "/MyPortfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.b5ffd3be.css",
+    "main.js": "/Portfolio/static/js/main.cc51421c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/admin_dashboard.png": "/Portfolio/static/media/admin_dashboard.4e857a22b9c389d6189c.png",
+    "static/media/emotion.png": "/Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/netflix.png": "/Portfolio/static/media/netflix.d430ad11b357f8d8c3f2.png",
+    "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Ramendra_Vishwakarma_resume.pdf": "/Portfolio/static/media/Ramendra_Vishwakarma_resume.e0419922f3fef5f48632.pdf",
+    "static/media/chatify.png": "/Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.b5ffd3be.css.map": "/Portfolio/static/css/main.b5ffd3be.css.map",
+    "main.cc51421c.js.map": "/Portfolio/static/js/main.cc51421c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d6e740.css",
-    "static/js/main.5739b062.js"
+    "static/css/main.b5ffd3be.css",
+    "static/js/main.cc51421c.js"
   ]
 }
